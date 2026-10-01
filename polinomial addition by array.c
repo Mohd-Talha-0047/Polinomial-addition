@@ -2,7 +2,7 @@
 int main(){
     int c1[100],c2[100],sum[100];
     int d1,d2,i,n;
-    printf("Enter highest degree of first poltnomial: ");
+    printf("Enter highest degree of first polunomial: ");
     scanf("%d",&d1);
     printf("Enter coefficient of first polinomial from degree 0 to %d \n",d1);
     for(i=0;i<=d1;i++){
